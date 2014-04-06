@@ -1,0 +1,4 @@
+mcStaticPage
+============
+
+first try
